@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hazmei Bin Abdul Rahman 👨🏾‍💻
+Pronouns: /huzz - me/
+
+I am currently working at [Ascenda Loyalty](https://www.ascendaloyalty.com/) as a DevOps engineer in Singapore 🇸🇬.
+
+You can find my site [here](https://www.hazmei.com)!
 
 <!--
 **hazmei/hazmei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
