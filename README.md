@@ -1,7 +1,7 @@
 ### 👨🏾‍💻
 Pronouns: /huzz - me/
 
-I am currently working at [Ascenda Loyalty](https://www.ascendaloyalty.com/) as a Senior DevOps engineer in Singapore 🇸🇬.
+I am a Senior DevOps engineer working in Singapore 🇸🇬.
 
 You can find my site [here](https://www.hazmei.com)!
 
