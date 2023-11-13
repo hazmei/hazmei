@@ -1,7 +1,7 @@
 ### 👨🏾‍💻
 Pronouns: /huzz - me/
 
-I am a Senior DevOps engineer working in Singapore 🇸🇬.
+I am a Staff Platform engineer working in Singapore 🇸🇬.
 
 You can find my site [here](https://www.hazmei.com)!
 
