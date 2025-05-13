@@ -3,7 +3,7 @@ Pronouns: /huzz - me/
 
 I am a Staff Platform engineer working in Singapore 🇸🇬.
 
-You can find my site [here](https://www.hazmei.com)!
+You can find my site [here](https://www.hazmei.com).
 
 <!--
 **hazmei/hazmei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
