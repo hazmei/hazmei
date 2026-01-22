@@ -1,7 +1,10 @@
 ### 👨🏾‍💻
 Pronouns: /huzz - me/
 
+<!--
 I am a Staff Platform engineer working in Singapore 🇸🇬.
+-->
+Hello world!
 
 You can find my site [here](https://www.hazmei.com).
 
